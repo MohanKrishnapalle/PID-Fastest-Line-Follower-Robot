@@ -11,6 +11,7 @@ The robot is optimized to follow a track with **high speed, stability, and smoot
 * ✅ **Finish Line Detection & Stop Mechanism**
 * ✅ Compatible with **L298N Motor Driver** and 3 IR sensors
 ---
+![image alt]()
 ⚡ Hardware Requirements
 * Arduino UNO / Nano / Mega
 * L298N Motor Driver
