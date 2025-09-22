@@ -11,7 +11,7 @@ The robot is optimized to follow a track with **high speed, stability, and smoot
 * ✅ **Finish Line Detection & Stop Mechanism**
 * ✅ Compatible with **L298N Motor Driver** and 3 IR sensors
 ---
-![image alt]()
+![image alt](https://github.com/MohanKrishnapalle/PID-Fastest-Line-Follower-Robot/blob/main/PID_Line_Follower_Flowchart.png?raw=true)
 ⚡ Hardware Requirements
 * Arduino UNO / Nano / Mega
 * L298N Motor Driver
